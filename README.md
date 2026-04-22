@@ -1,1 +1,9 @@
-# final-project-git
+# Simple Interest Calculator
+
+This project is a simple bash script to calculate simple interest based on user input.
+
+## Author
+Your Name
+
+## Description
+This project calculates simple interest using principal, rate, and time.# final-project-git
